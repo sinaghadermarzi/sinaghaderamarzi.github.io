@@ -17,7 +17,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Sina Ghadermarzi"
   image = "img/sina.jpg"
-  headline = "I'm only human"
+  headline = "hello"
   bio = ""
   links = [
     # { email = "mailto:hello@your_domain.com" },
