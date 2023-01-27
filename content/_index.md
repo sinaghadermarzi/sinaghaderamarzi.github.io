@@ -1,25 +1,14 @@
 ---
 title: ""
 description: ""
-
-cascade:
-  showDate: false
-  showAuthor: false
-  showSummary: false
-  invertPagination: true
+showDate: false
+showAuthor: false
+showSummary: false
+invertPagination: false
+showReadingTime: false
+showEdit: false
 ---
 
-{{< lead >}}
-   
 
-
-{{< /lead >}}
-
-
-
-## Contact
-
-
-## Research 
-[Research]({{< ref "about/#research" >}}) 
+[Research](https://sina.page/about/#research) 
 
