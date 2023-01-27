@@ -5,7 +5,7 @@ description: "More information about me"
 cascade:
   showDate: false
   showAuthor: false
-  showSummary: true
+  showSummary: false
   invertPagination: true
 ---
 
