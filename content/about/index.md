@@ -7,9 +7,7 @@ cascade:
   showDate: false
   showAuthor: false
   showSummary: false
-  invertPagination: true
-  showDate: false
-  showAuthor: false
+  invertPagination: false
   showReadingTime: false
   showEdit: false
 ---
