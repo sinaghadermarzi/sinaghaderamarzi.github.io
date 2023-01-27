@@ -15,8 +15,11 @@ cascade:
 
 {{< /lead >}}
 
+
+
 ## Contact
 
-## Research 
 
+## Research 
+[Research]({{< ref "about/#research" >}}) 
 
