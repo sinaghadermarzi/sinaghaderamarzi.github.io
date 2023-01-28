@@ -18,6 +18,7 @@ enableCodeCopy = false
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
   showTitle = true
+  showAppearanceSwitcher = true
 
 [footer]
   showCopyright = false
