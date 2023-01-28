@@ -10,16 +10,11 @@ showEdit: false
 ---
 ## Summary
 
+---
 ## Contact
 
+---
 ## Links
-- jglskjdfljsf
-- sdlkfjlsdfkj 
-
-;sdlfjlskdjf l
-sdlfkjsldfkjlsdfjlskdfj 
-sldkfjlsdkjflskdfjlksdjf 
-lsdfjlsdkjflksjdf
 
 ---
 ## Research 
@@ -33,5 +28,5 @@ lsdkfjlsdkjflskjdf
 ### reaserch interests
 
 ### past projects
-
+---
 
