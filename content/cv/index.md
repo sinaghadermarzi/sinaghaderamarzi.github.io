@@ -23,17 +23,27 @@ showEdit: false
 - Bioinformatics
 
 ---
-## Publications 
-[{{< icon "link" >}} Google Scholar](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
+## Journal Publications 
+[Google Scholar  {{< icon "link" >}}](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
 
-#### Journal Publications
-2021 **DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences.**
+### 2021 
+
+**DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences.**
+
 Zhang, J., Ghadermarzi, S., Katuwawala, A., & Kurgan, L. 
+
 __Briefings in Bioinformatics__  [{{< icon "link" >}} ](https://doi.org/10.1093/bib/bbab336)
 
-2021 **XRRpred: accurate predictor of crystal structure quality from protein sequence.** 
+---
+
+**XRRpred: accurate predictor of crystal structure quality from protein sequence.**
+
 Ghadermarzi, S., Krawczyk, B., Song, J., & Kurgan, L. 
+
 __Bioinformatics__  [{{< icon "link" >}} ](https://doi.org/10.1093/bioinformatics/btab509)
+
+---
+
 
 - Hu, G., Katuwawala, A., Wang, K., Wu, Z., Ghadermarzi, S., Gao, J., & Kurgan, L. (2021). flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions. Nature communications, 12(1), 1-8.  [{{< icon "link" >}} ](https://doi.org/10.1038/s41467-021-24773-7)
 
