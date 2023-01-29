@@ -27,14 +27,11 @@ showEdit: false
 2021. DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences
   [_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbab336)
 
-
 2021. XRRpred: accurate predictor of crystal structure quality from protein sequence
   [_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btab509)
 
-
 2021. flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions
   [_Nature communications_](https://doi.org/10.1038/s41467-021-24773-7)
-
 
 2021. QUARTERplus: Accurate disorder predictions integrated with interpretable residue-level quality assessment scores
   [_Computational and structural biotechnology journal_](https://doi.org/10.1016/j.csbj.2021.04.066)
@@ -49,6 +46,7 @@ showEdit: false
 ## Conference Publications
 2019. Disordered Function Conjunction: On the in-silico function annotation of intrinsically disordered regions
   [_PACIFIC SYMPOSIUM ON BIOCOMPUTING 2020_](https://doi.org/10.1142/9789811215636_0016)
+
 
 #### Book Chapters
 2019. Computational prediction of functions of intrinsically disordered regions. 
