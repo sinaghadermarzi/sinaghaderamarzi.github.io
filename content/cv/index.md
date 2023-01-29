@@ -48,7 +48,7 @@ showEdit: false
   [_PACIFIC SYMPOSIUM ON BIOCOMPUTING 2020_](https://doi.org/10.1142/9789811215636_0016)
 
 
-#### Book Chapters
+## Book Chapters
 **2019**.  Computational prediction of functions of intrinsically disordered regions. 
   [_Progress in Molecular Biology and Translational Science_](https://doi.org/10.1016/bs.pmbts.2019.04.006)
 
