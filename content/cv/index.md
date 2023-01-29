@@ -35,7 +35,7 @@ Zhang, J., Ghadermarzi, S., Katuwawala, A., & Kurgan, L.
 
 **XRRpred: accurate predictor of crystal structure quality from protein sequence.**
 Ghadermarzi, S., Krawczyk, B., Song, J., & Kurgan, L.
-[__Bioinformatics__](https://doi.org/10.1093/bioinformatics/btab509)
+[_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btab509)
 
 
 
