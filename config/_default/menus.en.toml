@@ -27,8 +27,8 @@
 
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "CV"
+  pageRef = "cv"
   weight = 40
 
 [[main]]
