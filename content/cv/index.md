@@ -25,7 +25,7 @@ showEdit: false
 ## Journal Publications 
 
 2021. **DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences**
-<br>Zhang, J.-Ghadermarzi, S.- Katuwawala, A.- Kurgan, L 
+<br>Zhang, J.|Ghadermarzi, S.|Katuwawala, A.|Kurgan, L 
 <br>[_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbab336)
 
 
