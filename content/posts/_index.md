@@ -2,10 +2,10 @@
 title: "Updates"
 description: ""
 cascade:
-  showDate: false
+  showDate: true
   showAuthor: false
   showSummary: false
-  invertPagination: false
+  invertPagination: true
   showReadingTime: false
   showEdit: false
 ---
