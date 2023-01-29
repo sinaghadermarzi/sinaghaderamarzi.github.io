@@ -18,15 +18,15 @@ Message me on linkedin or twitter or email me
 ---
 ## Links
 
-[Linkedin](https://www.linkedin.com/in/sina-ghadermarzi/)
+{{< icon "link" >}} [Linkedin](https://www.linkedin.com/in/sina-ghadermarzi/)
 
-[Github](https://github.com/sinaghadermarzi)
+{{< icon "link" >}} [Github](https://github.com/sinaghadermarzi)
 
-[Twitter](https://twitter.com/GhadermarziSina)
+{{< icon "link" >}} [Twitter](https://twitter.com/GhadermarziSina)
 
-[Google Scholar](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
+{{< icon "link" >}} [Google Scholar](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
 
-[ResearchGate](https://www.researchgate.net/profile/Sina-Ghadermarzi-2)
+{{< icon "link" >}} [ResearchGate](https://www.researchgate.net/profile/Sina-Ghadermarzi-2)
 
 ---
 ## Reaserch Interests
@@ -35,6 +35,7 @@ Message me on linkedin or twitter or email me
 
 ---
 ## Publications 
+{{< icon "link" >}} [Google Scholar](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
 
 #### Journal Publications
 - Zhang, J., Ghadermarzi, S., Katuwawala, A., & Kurgan, L. (2021). DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences. Briefings in Bioinformatics, 22(6), bbab336. [Link](https://doi.org/10.1093/bib/bbab336)
@@ -59,7 +60,6 @@ Message me on linkedin or twitter or email me
 
 
 
-{{< icon "link" >}}[Google Scholar](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
 
 ---
 
