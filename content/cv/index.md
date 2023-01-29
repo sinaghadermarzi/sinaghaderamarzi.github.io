@@ -7,6 +7,7 @@ showSummary: false
 invertPagination: false
 showReadingTime: false
 showEdit: false
+showTableOfContents : true
 ---
 ## Links
 
@@ -18,9 +19,9 @@ showEdit: false
 
 ---
 ## Education
-- 2022 **Ph.D.** Computer Science - _Virginia Commonwealth University_
-- 2017 **M.Sc.** Computer Engineering - _Amirkabir University of Technology, Tehran, Iran_
-- 2013 **B.Sc.** Computer Engineering-  _Shahid Beheshti University, Tehran, Iran_
+- **Ph.D.** Computer Science - _Virginia Commonwealth University, Richmond, Virginia, US_
+- **M.Sc.** Computer Engineering - _Amirkabir University of Technology, Tehran, Iran_
+- **B.Sc.** Computer Engineering-  _Shahid Beheshti University, Tehran, Iran_
 
 ---
 ## Reaserch Interests
