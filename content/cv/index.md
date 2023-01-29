@@ -24,10 +24,10 @@ showEdit: false
 ---
 ## Journal Publications 
 
-2021. DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences
+**2021** DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences
   [_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbab336)
 
-2021. XRRpred: accurate predictor of crystal structure quality from protein sequence
+**2021** XRRpred: accurate predictor of crystal structure quality from protein sequence
   [_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btab509)
 
 2021. flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions
