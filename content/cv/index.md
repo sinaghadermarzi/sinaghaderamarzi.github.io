@@ -18,15 +18,20 @@ showTableOfContents : true
 - [ResearchGate](https://www.researchgate.net/profile/Sina-Ghadermarzi-2)
 
 ---
-## Education
-- **Ph.D.** Computer Science - _Virginia Commonwealth University, Richmond, Virginia, US_
-- **M.Sc.** Computer Engineering - _Amirkabir University of Technology, Tehran, Iran_
-- **B.Sc.** Computer Engineering-  _Shahid Beheshti University, Tehran, Iran_
-
----
 ## Reaserch Interests
 - Machine Learning 
 - Bioinformatics
+
+---
+## Education
+**Ph.D.** Computer Science (2022) 
+<br>_Virginia Commonwealth University, Richmond, Virginia, US_
+
+**M.Sc.** Computer Engineering (2017)
+<br>_Amirkabir University of Technology, Tehran, Iran_
+
+**B.Sc.** Computer Engineering (2013)
+<br>_Shahid Beheshti University, Tehran, Iran_
 
 ---
 ## Journal Publications 
