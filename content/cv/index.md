@@ -8,7 +8,6 @@ invertPagination: false
 showReadingTime: false
 showEdit: false
 ---
-
 ## Links
 
 - [Linkedin](https://www.linkedin.com/in/sina-ghadermarzi/)
@@ -25,24 +24,28 @@ showEdit: false
 ---
 ## Journal Publications 
 
-2021. **DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences.**
+2021. **DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences**
 <br>Zhang, J., Ghadermarzi, S., Katuwawala, A., & Kurgan, L. 
 <br>[_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbab336)
 
 
-2021. **XRRpred: accurate predictor of crystal structure quality from protein sequence.**
-Ghadermarzi, S., Krawczyk, B., Song, J., & Kurgan, L.
-[_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btab509)
+2021. **XRRpred: accurate predictor of crystal structure quality from protein sequence**
+<br>Ghadermarzi, S., Krawczyk, B., Song, J., & Kurgan, L.
+<br>[_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btab509)
 
 
-2021. flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions
-Hu, G., Katuwawala, A., Wang, K., Wu, Z., Ghadermarzi, S., Gao, J., & Kurgan, L. 
+2021. **flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions**
+<br>Hu, G., Katuwawala, A., Wang, K., Wu, Z., Ghadermarzi, S., Gao, J., & Kurgan, L. 
+<br>[_Nature communications_](https://doi.org/10.1038/s41467-021-24773-7)
 
-- Hu, G., Katuwawala, A., Wang, K., Wu, Z., Ghadermarzi, S., Gao, J., & Kurgan, L. (2021). flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions. Nature communications, 12(1), 1-8.  [{{< icon "link" >}} ](https://doi.org/10.1038/s41467-021-24773-7)
 
-- Katuwawala, A., Ghadermarzi, S., Hu, G., Wu, Z., & Kurgan, L. (2021). QUARTERplus: Accurate disorder predictions integrated with interpretable residue-level quality assessment scores. Computational and structural biotechnology journal, 19, 2597-2606.  [{{< icon "link" >}} ](https://doi.org/10.1016/j.csbj.2021.04.066)
+2021. **QUARTERplus: Accurate disorder predictions integrated with interpretable residue-level quality assessment scores.**
+Katuwawala, A., Ghadermarzi, S., Hu, G., Wu, Z., & Kurgan, L.
+<br>[_Computational and structural biotechnology journal_](https://doi.org/10.1016/j.csbj.2021.04.066)
 
-- Zhang, J., Ghadermarzi, S., & Kurgan, L. (2020). Prediction of protein-binding residues: dichotomy of sequence-based methods developed using structured complexes versus disordered proteins. Bioinformatics, 36(18), 4729-4738.  [{{< icon "link" >}} ](https://doi.org/10.1093/bioinformatics/btaa573)
+2020. **Prediction of protein-binding residues: dichotomy of sequence-based methods developed using structured complexes versus disordered proteins**
+<br>Zhang, J., Ghadermarzi, S., & Kurgan, L.
+<br>[_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btaa573)
 
 - Ghadermarzi, S., Li, X., Li, M., & Kurgan, L. (2019). Sequence-derived markers of drug targets and potentially druggable human proteins. Frontiers in genetics, 1075.  [{{< icon "link" >}} ](https://doi.org/10.3389/fgene.2019.01075)
 
