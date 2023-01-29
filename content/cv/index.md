@@ -24,25 +24,25 @@ showEdit: false
 ---
 ## Journal Publications 
 
-2021. **DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences**
+2021. DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences
 <br>[_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbab336)
 
 
-2021. **XRRpred: accurate predictor of crystal structure quality from protein sequence**
+2021. XRRpred: accurate predictor of crystal structure quality from protein sequence
 <br>[_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btab509)
 
 
-2021. **flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions**
+2021. flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions
 <br>[_Nature communications_](https://doi.org/10.1038/s41467-021-24773-7)
 
 
-2021. **QUARTERplus: Accurate disorder predictions integrated with interpretable residue-level quality assessment scores.**
+2021. QUARTERplus: Accurate disorder predictions integrated with interpretable residue-level quality assessment scores
 <br>[_Computational and structural biotechnology journal_](https://doi.org/10.1016/j.csbj.2021.04.066)
 
-2020. **Prediction of protein-binding residues: dichotomy of sequence-based methods developed using structured complexes versus disordered proteins**
+2020. Prediction of protein-binding residues: dichotomy of sequence-based methods developed using structured complexes versus disordered proteins
 <br>[_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btaa573)
 
-2019. **Sequence-derived markers of drug targets and potentially druggable human proteins**
+2019. Sequence-derived markers of drug targets and potentially druggable human proteins
 <br>[_Frontiers in genetics_](https://doi.org/10.3389/fgene.2019.01075)
 
 
