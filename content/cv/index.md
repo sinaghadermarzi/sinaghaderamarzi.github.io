@@ -25,32 +25,34 @@ showEdit: false
 ## Journal Publications 
 
 2021. DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences
-<br>[_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbab336)
+  [_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbab336)
 
 
 2021. XRRpred: accurate predictor of crystal structure quality from protein sequence
-<br>[_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btab509)
+  [_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btab509)
 
 
 2021. flDPnn: Accurate intrinsic disorder prediction with putative propensities of disorder functions
-<br>[_Nature communications_](https://doi.org/10.1038/s41467-021-24773-7)
+  [_Nature communications_](https://doi.org/10.1038/s41467-021-24773-7)
 
 
 2021. QUARTERplus: Accurate disorder predictions integrated with interpretable residue-level quality assessment scores
-<br>[_Computational and structural biotechnology journal_](https://doi.org/10.1016/j.csbj.2021.04.066)
+  [_Computational and structural biotechnology journal_](https://doi.org/10.1016/j.csbj.2021.04.066)
 
 2020. Prediction of protein-binding residues: dichotomy of sequence-based methods developed using structured complexes versus disordered proteins
-<br>[_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btaa573)
+  [_Bioinformatics_](https://doi.org/10.1093/bioinformatics/btaa573)
 
 2019. Sequence-derived markers of drug targets and potentially druggable human proteins
-<br>[_Frontiers in genetics_](https://doi.org/10.3389/fgene.2019.01075)
+  [_Frontiers in genetics_](https://doi.org/10.3389/fgene.2019.01075)
 
 
-#### Conference Publications
-- Ghadermarzi, S., Katuwawala, A., Oldfield, C. J., Barik, A., & Kurgan, L. (2019). Disordered Function Conjunction: On the in-silico function annotation of intrinsically disordered regions. In PACIFIC SYMPOSIUM ON BIOCOMPUTING 2020 (pp. 171-182).  [{{< icon "link" >}} ](https://doi.org/10.1142/9789811215636_0016)
+## Conference Publications
+2019. Disordered Function Conjunction: On the in-silico function annotation of intrinsically disordered regions
+  [_PACIFIC SYMPOSIUM ON BIOCOMPUTING 2020_](https://doi.org/10.1142/9789811215636_0016)
 
 #### Book Chapters
-- Katuwawala, A., Ghadermarzi, S., & Kurgan, L. (2019). Computational prediction of functions of intrinsically disordered regions. Progress in Molecular Biology and Translational Science, 166, 341-369.  [{{< icon "link" >}} ](https://doi.org/10.1016/bs.pmbts.2019.04.006)
+2019. Computational prediction of functions of intrinsically disordered regions. 
+  [_Progress in Molecular Biology and Translational Science_](https://doi.org/10.1016/bs.pmbts.2019.04.006)
 
 
 
