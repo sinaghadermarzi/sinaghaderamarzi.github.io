@@ -8,14 +8,7 @@ invertPagination: false
 showReadingTime: false
 showEdit: false
 ---
-## Summary
 
----
-## Contact
-Message me on linkedin or twitter or email me
-`sina dot ghadermarzi at gmail`
-
----
 ## Links
 
 - [Linkedin](https://www.linkedin.com/in/sina-ghadermarzi/)
@@ -31,7 +24,7 @@ Message me on linkedin or twitter or email me
 
 ---
 ## Publications 
-{{< icon "link" >}} [Google Scholar](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
+{{< icon "link" >}}      [Google Scholar](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
 
 #### Journal Publications
 - Zhang, J., Ghadermarzi, S., Katuwawala, A., & Kurgan, L. (2021). DNAgenie: accurate prediction of DNA-type-specific binding residues in protein sequences. Briefings in Bioinformatics, 22(6), bbab336. [{{< icon "link" >}} ](https://doi.org/10.1093/bib/bbab336)
