@@ -14,17 +14,20 @@ showEdit: false
 ## Contact
 Message me on linkedin or twitter or email me
 `sina dot ghadermarzi at gmail`
+
 ---
 ## Links
 [Linkedin](https://www.linkedin.com/in/sina-ghadermarzi/)
 [Github](https://github.com/sinaghadermarzi)
 [Twitter](https://twitter.com/GhadermarziSina)
 [Google Scholar](https://scholar.google.com/citations?user=AcpzHc8AAAAJ&hl=en)
-[ResearchGate]()
+[ResearchGate](https://www.researchgate.net/profile/Sina-Ghadermarzi-2)
+
 ---
 ## Reaserch Interests
 - Machine Learning 
 - Bioinformatics
+
 ---
 ## Publications 
 
@@ -43,10 +46,10 @@ Message me on linkedin or twitter or email me
 
 
 #### Conference Publications
-	Ghadermarzi, S., Katuwawala, A., Oldfield, C. J., Barik, A., & Kurgan, L. (2019). Disordered Function Conjunction: On the in-silico function annotation of intrinsically disordered regions. In PACIFIC SYMPOSIUM ON BIOCOMPUTING 2020 (pp. 171-182). [Link](https://doi.org/10.1142/9789811215636_0016)
+- Ghadermarzi, S., Katuwawala, A., Oldfield, C. J., Barik, A., & Kurgan, L. (2019). Disordered Function Conjunction: On the in-silico function annotation of intrinsically disordered regions. In PACIFIC SYMPOSIUM ON BIOCOMPUTING 2020 (pp. 171-182). [Link](https://doi.org/10.1142/9789811215636_0016)
 
 #### Book Chapters
-	Katuwawala, A., Ghadermarzi, S., & Kurgan, L. (2019). Computational prediction of functions of intrinsically disordered regions. Progress in Molecular Biology and Translational Science, 166, 341-369. [Link](https://doi.org/10.1016/bs.pmbts.2019.04.006)
+- Katuwawala, A., Ghadermarzi, S., & Kurgan, L. (2019). Computational prediction of functions of intrinsically disordered regions. Progress in Molecular Biology and Translational Science, 166, 341-369. [Link](https://doi.org/10.1016/bs.pmbts.2019.04.006)
 
 
 
